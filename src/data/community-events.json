@@ -72,8 +72,17 @@
     "endDate": "2023-05-23"
   },
   {
+    "title": "Ethereum Miami",
+    "to": "https://www.ethmiami.ooo/",
+    "sponsor": null,
+    "location": "Toronto, Canada",
+    "description": "We have launched ETH Mobile and you are welcome to join us to accelerate mass adoption of Web3 through the mobile experience.",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-14"
+  },
+  {
     "title": "ETHGlobal Istanbul",
-    "to": "https://ethglobal.com/events/istanbul",
+    "to": "",
     "sponsor": null,
     "location": "Istanbul, Turkey",
     "description": "Get hype to build the future of web3 with thousands of developers and creatives in one of the oldest cities in the world, let's hack in Istanbul.",
